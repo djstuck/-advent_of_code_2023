@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "DataImporter/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DataImporter.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataImporter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataImporter/1.0.0": {
+      "type": "project",
+      "path": "../DataImporter/DataImporter.csproj",
+      "msbuildProject": "../DataImporter/DataImporter.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "DataImporter >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/root/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/workspaces/advent_of_code_2023/Day1/Day1.csproj",
+      "projectName": "Day1",
+      "projectPath": "/workspaces/advent_of_code_2023/Day1/Day1.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/workspaces/advent_of_code_2023/Day1/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/root/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/workspaces/advent_of_code_2023/DataImporter/DataImporter.csproj": {
+              "projectPath": "/workspaces/advent_of_code_2023/DataImporter/DataImporter.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
