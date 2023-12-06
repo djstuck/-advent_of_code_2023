@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataImporter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c9e396b97461751258e704a39aba0c48210a9f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16822db1ff4fafda8598618b643808e69fdfffa4")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataImporter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataImporter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
