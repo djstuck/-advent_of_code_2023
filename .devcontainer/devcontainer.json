@@ -1,0 +1,11 @@
+{
+    "name": "advent_of_code_2023",
+    "dockerFile": "Dockerfile",
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+      },
+    "extensions": [
+      "ms-dotnettools.csharp"
+    ]
+  }
+  

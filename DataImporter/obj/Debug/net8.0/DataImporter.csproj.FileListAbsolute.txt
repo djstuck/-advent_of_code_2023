@@ -1,0 +1,12 @@
+/workspaces/advent_of_code_2023/DataImporter/bin/Debug/net8.0/DataImporter.deps.json
+/workspaces/advent_of_code_2023/DataImporter/bin/Debug/net8.0/DataImporter.dll
+/workspaces/advent_of_code_2023/DataImporter/bin/Debug/net8.0/DataImporter.pdb
+/workspaces/advent_of_code_2023/DataImporter/obj/Debug/net8.0/DataImporter.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/advent_of_code_2023/DataImporter/obj/Debug/net8.0/DataImporter.AssemblyInfoInputs.cache
+/workspaces/advent_of_code_2023/DataImporter/obj/Debug/net8.0/DataImporter.AssemblyInfo.cs
+/workspaces/advent_of_code_2023/DataImporter/obj/Debug/net8.0/DataImporter.csproj.CoreCompileInputs.cache
+/workspaces/advent_of_code_2023/DataImporter/obj/Debug/net8.0/DataImporter.sourcelink.json
+/workspaces/advent_of_code_2023/DataImporter/obj/Debug/net8.0/DataImporter.dll
+/workspaces/advent_of_code_2023/DataImporter/obj/Debug/net8.0/refint/DataImporter.dll
+/workspaces/advent_of_code_2023/DataImporter/obj/Debug/net8.0/DataImporter.pdb
+/workspaces/advent_of_code_2023/DataImporter/obj/Debug/net8.0/ref/DataImporter.dll
